@@ -8,6 +8,8 @@ namespace reading_csv
         {
             Console.WriteLine("Hello ");
             Console.WriteLine("Hey ahbdajd");
+            Console.WriteLine("Hello ");
+            Console.WriteLine("Hey ahbdajd");
         }
     }
 }

@@ -7,6 +7,7 @@ namespace reading_csv
         static void Main(string[] args)
         {
             Console.WriteLine("Hello ");
+            Console.WriteLine("Hey ahbdajd");
         }
     }
 }
